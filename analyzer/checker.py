@@ -1,6 +1,3 @@
-"""
-Main orchestrator: scans folder, dispatches rules, aggregates results.
-"""
 import os
 import re
 import json
