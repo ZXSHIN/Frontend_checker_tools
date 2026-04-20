@@ -1,7 +1,3 @@
-"""
-Framework & Language Auto-Detector
-Detects frameworks/languages from file content and package.json
-"""
 import re
 import json
 from typing import List, Optional, Dict
