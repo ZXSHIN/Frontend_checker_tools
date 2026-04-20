@@ -1,7 +1,3 @@
-"""
-Frontend Code Quality Checker — Desktop GUI
-Jalankan: python gui.py
-"""
 import customtkinter as ctk
 import tkinter as tk
 from tkinter import filedialog, messagebox
